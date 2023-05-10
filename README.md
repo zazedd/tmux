@@ -30,7 +30,7 @@
 2. Add the Catppuccin plugin:
 
 ```bash
-set -g @plugin 'catppuccin/tmux'
+set -g @plugin 'zazedd/tmux'
 # ...alongside
 set -g @plugin 'tmux-plugins/tpm'
 ```
