@@ -1,7 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/tmux/tmux">Tmux</a>
+	Catppuccin Clone for <a href="https://github.com/tmux/tmux">Tmux</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -14,13 +12,6 @@
 <p align="center">
   <img src="./assets/preview.webp"/>
 </p>
-
-## Themes
-
-- 🌻 [Latte](./catppuccin-latte.tmuxtheme)
-- 🪴 [Frappé](./catppuccin-frappe.tmuxtheme)
-- 🌺 [Macchiato](./catppuccin-macchiato.tmuxtheme)
-- 🌿 [Mocha](./catppuccin-mocha.tmuxtheme)
 
 ## Usage
 
@@ -103,12 +94,6 @@ set -g @catppuccin_host "on"
 ```
 
 [style-guide]: https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md
-
-## 💝 Thanks to
-
-- [Pocco81](https://github.com/catppuccin)
-- [vinnyA3](https://github.com/vinnyA3)
-- [rogeruiz](https://github.com/rogeruiz)
 
 &nbsp;
 
