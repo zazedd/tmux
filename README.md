@@ -9,10 +9,6 @@
     <a href="https://github.com/catppuccin/tmux/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/tmux?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-  <img src="./assets/preview.webp"/>
-</p>
-
 ## Usage
 
 ### TPM
